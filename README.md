@@ -1,2 +1,0 @@
-# upNext
-Created with CodeSandbox
